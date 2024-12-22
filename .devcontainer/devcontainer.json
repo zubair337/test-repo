@@ -8,6 +8,12 @@
         "ms-vsliveshare.vsliveshare", // Live Share
         "ms-vscode.live-server" // Live Preview
       ]
+    },
+    "settings": {
+      "livePreview.autoRefreshPreview": "On",
+      "editor.formatOnSave": true,
+      "prettier.enable": true,
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
     }
   }
 }
